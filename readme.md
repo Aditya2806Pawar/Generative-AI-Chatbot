@@ -2,8 +2,9 @@ Project Overview
 
 # Gentative AI Chatbot
 
-## Author:- Aditya2806Pawar
+### Author:- Aditya2806Pawar
 
+### 
  This repository presents a streamlined chatbot application built with Streamlit for the frontend and Ollama for the backend. It facilitates interaction with powerful AI models, making it a valuable tool for exploring and experimenting with AI capabilities.
 
  Key Features
