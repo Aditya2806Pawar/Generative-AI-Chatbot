@@ -1,6 +1,8 @@
 Project Overview
 
-# Author:- Aditya2806Pawar
+# Gentative AI Chatbot
+
+## Author:- Aditya2806Pawar
 
  This repository presents a streamlined chatbot application built with Streamlit for the frontend and Ollama for the backend. It facilitates interaction with powerful AI models, making it a valuable tool for exploring and experimenting with AI capabilities.
 
@@ -31,20 +33,17 @@ Set up your Ollama models and API access according to the Ollama documentation. 
  Run the App:
 
 Bash
-streamlit run app.py
+streamlit run ollama_chatbot.py
 Use code with caution.
 
  This launches the chatbot in your web browser, typically at http://localhost:8501.
 
  Deployment (Optional)
 
- While this repository is primarily for demonstration, you can deploy the Streamlit app using platforms like Heroku or Google Cloud Run to make it accessible to others.
+ While this repository is primarily for demonstration, you can deploy the Streamlit app p platforms like Heroku or Google Cloud Run to make it accessible to others.
 
  Contributing
 
  I welcome your contributions! Feel free to fork the repository, make improvements, and submit pull requests for consideration.
+ ## Author:- Aditya2806Pawar
 
-
-
-
-```# Generative-AI-Chatbot
